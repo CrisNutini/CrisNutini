@@ -3,6 +3,8 @@ Olá!! Eu sou a Cristiane Nutini.
 - Espero atuar na área de tecnologia muito em breve!!
 
 
+            <i class="devicon-javascript-plain colori"></i>
+          
 - Contato:
   www.linkedin.com/in/cristiane-nutini-906b6b132
 
